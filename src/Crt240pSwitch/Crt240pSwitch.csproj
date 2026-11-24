@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Crt240pSwitch</AssemblyName>
+    <Version>1.0.0</Version>
+    <Product>GTX 1650 / NVIDIA 15kHz CRT 240p Switcher</Product>
+  </PropertyGroup>
+</Project>

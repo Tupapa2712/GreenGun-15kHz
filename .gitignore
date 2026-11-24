@@ -1,0 +1,28 @@
+# Build artifacts de .NET
+**/bin/
+**/obj/
+**/publish/
+*.user
+*.suo
+
+# Instaladores compilados (se publican como adjuntos en GitHub Releases)
+build_output/*.exe
+Instaladores/*.exe
+
+# Logs, respaldos privados de registro y archivos temporales
+*.log
+*.bak
+*.tmp
+backup/
+backup_edid_*.reg
+backup_edid_hjw9291_*.reg
+edid_backup_*.bin
+edid_backup_*.reg
+pre_change_state.json
+config.json
+
+# Binarios o drivers de terceros (sin copyright en el repo)
+redist/
+experimental_driver/
+*.sys
+*.cat

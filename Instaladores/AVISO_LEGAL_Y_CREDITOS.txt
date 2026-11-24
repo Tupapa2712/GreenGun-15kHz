@@ -1,0 +1,48 @@
+================================================================================
+  AVISO LEGAL, DESCARGO DE RESPONSABILIDAD Y CREDITOS
+  NVIDIA 15 kHz Super Resolucion (2560x240p / 2560x224p) - Windows 10 / 11
+================================================================================
+
+1. CREDITOS DEL PROYECTO
+------------------------
+Este software, sus perfiles de temporizacion (timings) de 15 kHz progresivos y
+su asistente de instalacion fueron desarrollados por:
+
+  Autor / Desarrollador: Tupapa2712 / DJ Kendo
+  Con la ayuda y asistencia tecnica de: Gemini
+
+2. ALCANCE DE ESTE INSTALADOR
+-----------------------------
+Este paquete instala UNICAMENTE la herramienta Crt240pSwitch y la gestion de
+modos de super resolucion 15 kHz progresivos (2560x240 @ 60 Hz y 2560x224 @ 60 Hz)
+para pantallas CRT conectadas a tarjetas graficas NVIDIA en Windows 10 y Windows 11.
+
+  - NO incluye reproductores de video (como MPC-HC o VLC).
+  - NO incluye emuladores ni frontends (como RetroBat o RetroArch).
+  - Cada usuario configura libremente sus propios reproductores y emuladores.
+  - Modo progresivo (240p / 224p): No habilita 480i entrelazado por HDMI fisico
+    en arquitectura Turing / Windows 10-11.
+
+3. DESCARGO DE RESPONSABILIDAD TOTAL (LEER ANTES DE CONTINUAR)
+--------------------------------------------------------------
+AL INSTALAR O UTILIZAR ESTE SOFTWARE, USTED RECONOCE Y ACEPTA EXPRESAMENTE QUE:
+
+  a) El uso de resoluciones personalizadas, frecuencias horizontales de 15 kHz,
+     inyeccion NVAPI y modificaciones de registro EDID_OVERRIDE se realiza
+     EXCLUSIVAMENTE BAJO SU PROPIO RIESGO Y RESPONSABILIDAD.
+
+  b) El autor/desarrollador (Tupapa2712 / DJ Kendo) NO SE HACE RESPONSABLE Y
+     QUEDA TOTALMENTE ABSUELTO de cualquier dano directo, indirecto, incidental
+     o consecuente, incluyendo sin limitacion: fallos de sincronia, perdida de
+     imagen, desconfiguracion de Windows, sobrecalentamiento o averias fisicas
+     en tarjetas graficas (GPU), adaptadores HDMI-a-VGA, transcoders YPbPr,
+     monitores LCD/OLED o televisores/monitores CRT utilizados por el usuario.
+
+  c) El software se entrega "TAL CUAL" ("AS IS"), sin garantias de ningun tipo,
+     expresas ni implicitas. Aunque incluye proteccion Hard-Lock del monitor
+     principal, respaldo automatico de EDID y reversion de seguridad de 15
+     segundos, usted es responsable de seleccionar correctamente su pantalla
+     CRT destino y verificar la compatibilidad de su cadena de hardware.
+
+Si no esta de acuerdo con estos terminos, seleccione "No acepto el acuerdo"
+para cancelar la instalacion sin realizar ningun cambio en su equipo.
