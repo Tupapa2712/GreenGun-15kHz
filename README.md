@@ -94,7 +94,7 @@ This setup has been tested and verified on real hardware using the following exa
 ## Credits & Full Liability Disclaimer
 
 ### Credits
-- **Author / Developer:** **Tupapa2712 / DJ Kendo**
+- **Author / Developer:** **Tupapa2712**
 - **Development Assistance:** Built with the help of **Gemini**.
 
 ### Full Liability Disclaimer
