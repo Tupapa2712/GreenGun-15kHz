@@ -6,7 +6,7 @@
 
 Autonomous Windows installers and a lightweight resolution switcher (`Crt240pSwitch`) that enable **true 15 kHz progressive super resolutions (`2560×240 @ 60 Hz` and `2560×224 @ 60 Hz`)** on standard-definition **CRT TVs and monitors** using an **NVIDIA GPU** on **Windows 10 and Windows 11 (64-bit)**.
 
-> **Project Scope:** This repository and its installers provide **only** the `240p`/`224p` resolution tools and display mode management (`Crt240pSwitch`). **No video players (such as MPC-HC or VLC), RetroBat, or RetroArch are included** — every user is free to configure their own emulators and media players.
+> **Project Scope:** This repository and its installers provide **only** the `240p`/`224p` resolution tools and display mode management (`Crt240pSwitch`).
 
 ---
 
