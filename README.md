@@ -1,8 +1,8 @@
-# NVIDIA 15 kHz Super Resolution (240p / 224p) for Windows 10 & Windows 11
+# GreenGun 15kHz
 
-[![Windows 10 / 11](https://img.shields.io/badge/Windows-10%20%2F%2011%20(64--bit)-0078D6?logo=windows)](https://github.com/Tupapa2712/nvidia-15khz-crt-240p-224p)
-[![Tested on GTX 1650](https://img.shields.io/badge/Tested%20on-NVIDIA%20GTX%201650%20LP-76B900?logo=nvidia)](https://github.com/Tupapa2712/nvidia-15khz-crt-240p-224p)
-[![15 kHz Modes](https://img.shields.io/badge/Modes-2560x240p%20%7C%202560x224p%20%40%2060Hz-orange)](https://github.com/Tupapa2712/nvidia-15khz-crt-240p-224p)
+[![Windows 10 / 11](https://img.shields.io/badge/Windows-10%20%2F%2011%20(64--bit)-0078D6?logo=windows)](https://github.com/Tupapa2712/GreenGun-15kHz)
+[![Tested on GTX 1650](https://img.shields.io/badge/Tested%20on-NVIDIA%20GTX%201650%20LP-76B900?logo=nvidia)](https://github.com/Tupapa2712/GreenGun-15kHz)
+[![15 kHz Modes](https://img.shields.io/badge/Modes-2560x240p%20%7C%202560x224p%20%40%2060Hz-orange)](https://github.com/Tupapa2712/GreenGun-15kHz)
 
 Autonomous Windows installers and a lightweight resolution switcher (`Crt240pSwitch`) that enable **true 15 kHz progressive super resolutions (`2560×240 @ 60 Hz` and `2560×224 @ 60 Hz`)** on standard-definition **CRT TVs and monitors** using an **NVIDIA GPU** on **Windows 10 and Windows 11 (64-bit)**.
 
@@ -32,7 +32,7 @@ Both installers are **100% guided and autonomous** (*Accept disclaimer → Next 
 | **`Setup_GTX1650_15kHz_240p_224p_Win10_Win11.exe`** | Users with an **NVIDIA GeForce GTX 1650** (Turing architecture) | **Tested Profile.** Checks whether your GPU is a GTX 1650 and displays a clear warning if a different GPU model is detected. |
 | **`Setup_NVIDIA_Experimental_15kHz_240p_224p_Win10_Win11.exe`** | Users who want to **experiment on other NVIDIA GPUs** | **Experimental Profile.** Allows testing `240p`/`224p` super resolutions on other NVIDIA graphics cards at your own risk, with no compatibility guarantee. |
 
-> Download the installer you need from the **[Releases](https://github.com/Tupapa2712/nvidia-15khz-crt-240p-224p/releases)** page.
+> Download the installer you need from the **[Releases](https://github.com/Tupapa2712/GreenGun-15kHz/releases)** page.
 
 ---
 
